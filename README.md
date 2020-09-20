@@ -1,2 +1,4 @@
 # TextAttackDefense
-Adversarial attacks on bert,lstm,cnn and defenses
+Adversarial attacks on infersent bert and roberta on SNLI and MutliNLI.
+Defense using FGWS.
+
